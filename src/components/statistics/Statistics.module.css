@@ -1,0 +1,17 @@
+.title {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.statisticList {
+  padding-left: 20px;
+  padding-bottom: 20px;
+}
+
+.statisticItem {
+  color: #727272;
+}
+
+.statisticItem:not(:last-child) {
+  margin-bottom: 12px;
+}
