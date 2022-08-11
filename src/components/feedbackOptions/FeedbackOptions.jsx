@@ -9,7 +9,7 @@ function FeedbackOptions(props) {
         return (
           <li key={nanoid()}>
             <button
-              className={s[`${title}`]}
+              className={s[`${feedName}`]}
               type="button"
               onClick={() => onLeaveFeedback(feedName)}
             >

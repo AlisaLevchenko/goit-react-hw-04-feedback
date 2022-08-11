@@ -31,18 +31,18 @@ button {
   margin-right: 10px;
 }
 
-.Good {
+.good {
   font-size: 20px;
   font-weight: 500;
   background-color: aquamarine;
 }
 
-.Neutral {
+.neutral {
   font-size: 16px;
   background-color: burlywood;
 }
 
-.Bad {
+.bad {
   font-size: 10px;
   background-color: rgb(236, 106, 83);
 }
